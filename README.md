@@ -23,12 +23,3 @@ Los archivos se guardan junto a los scripts, independientemente del directorio d
 
 N=12: 66 líneas; N=24: 276 líneas; N=36: 630 líneas.
 Los algoritmos se reutilizan del material de lectura, secciones 2.2 y 2.3, páginas 9–12. DDA conserva incluso el retorno sin dibujar cuando ambos extremos coinciden; las figuras no utilizan segmentos degenerados.
-
-## Completar antes de entregar
-1. Añadir la matrícula al Word.
-2. Crear el repositorio `taller5g-unidad3-caceres` en GitHub o GitLab y subir los archivos de esta carpeta.
-3. Copiar su URL real al Word. Si es privado, dar acceso al docente según la consigna.
-4. Verificar el acceso, guardar el Word actualizado y volver a comprimir esta carpeta.
-5. Subir el ZIP a Canvas.
-
-No se incluye una URL ficticia ni se afirma que el repositorio ya fue publicado.
